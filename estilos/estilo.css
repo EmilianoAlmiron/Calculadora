@@ -1,9 +1,7 @@
 
 body{
-    background-color: #e9eaf3;
     margin: 0;
-    padding: 0;
-    background-image: url(/img/Diseño\ sin\ título\ \(3\).png);
+    background-image: url(img/Fondo.png);
     background-repeat: no-repeat;
 }
 
@@ -60,6 +58,7 @@ body{
     background-color: #77d5f1;
     cursor:pointer;
 }
+
 #igual{
     align-content: center;
     text-align: center;
